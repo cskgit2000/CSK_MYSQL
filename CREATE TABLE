@@ -1,0 +1,11 @@
+CREATE TABLE CRICKET_PLAYERS (
+    name VARCHAR(50),
+    age INT
+);
+CREATE TABLE PLAYERS_INFO (
+    name VARCHAR(50),
+    JERSEY_NO INT,
+    age INT,
+    INTER_MAT INT,
+    SCORE INT
+);
